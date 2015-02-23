@@ -1,5 +1,5 @@
 # MaxMSP_DrumMachine, Project: 777
-Pattern based, eight track, sequencer that is optimal for drum programming purposes.
+Pattern based, eight track, sequencer that is optimal for drum programming purposes. Screenshot: http://i.imgur.com/ZDOvcr2.png
 
 # Meters
 Toggle meters under "Random Options". Toggled options are removed from randomization. Press "Initialize" to randomize meters of eight pattern tracks.
