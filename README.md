@@ -1,6 +1,4 @@
-# MaxMSP_DrumMachine
-# Project: 777
-
+# MaxMSP_DrumMachine, Project: 777
 Pattern based, eight track, sequencer that is optimal for drum programming purposes.
 
 # Meters
